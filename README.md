@@ -45,3 +45,8 @@
 - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+
+## Демонстрация API
+### Swagger UI - документация API
+![Swagger Documentation](Screenshots/swagger-ui.png)
+*Пояснение: Здесь видно все endpoints API с возможностью их тестирования*
