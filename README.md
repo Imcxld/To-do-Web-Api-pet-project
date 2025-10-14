@@ -13,11 +13,9 @@
 ## Оглавление
 
 - [О проекте](#о-проекте)
-- [Технологии](#️-технологии)
-- [Демонстрация API](#-демонстрация-api)
-- [Запуск проекта](#-запуск-проекта)
-- [Структура проекта](#-структура-проекта)
-- [API Endpoints](#-api-endpoints)
+- [Технологии](#️технологии)
+- [Структура проекта](#структура-проекта)
+- [API Endpoints](#api-endpoints)
 
 ---
 
@@ -47,25 +45,3 @@
 - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
-## Демонстрация API
-
-### Swagger UI - Документация API
-![Swagger Documentation](screenshots/swagger-ui.png)
-*Пояснение: Автоматически сгенерированная документация API с возможностью тестирования endpoints.*
-
-### Пример работы с аутентификацией
-![JWT Authentication](screenshots/auth-flow.gif)
-*Пояснение: Получение JWT токена и его использование для доступа к защищенным ресурсам.*
-
-### Пример ответа API
-```json
-{
-  "id": 1,
-  "title": "Implement REST API",
-  "description": "Create Task Management API",
-  "status": "InProgress",
-  "priority": "High",
-  "createdAt": "2024-01-15T10:30:00Z",
-  "dueDate": "2024-01-20T23:59:00Z"
-}
