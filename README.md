@@ -49,4 +49,10 @@
 ## Демонстрация API
 ### Swagger UI - документация API
 ![Swagger Documentation](Screenshots/swagger_ui.png)
+
 *Здесь видно все эндпоинты API с возможностью их тестирования*
+
+### Swagger UI - результат получения всех задач
+![Swagger Documentation](Screenshots/get_all_endpoint.png)
+
+*Результат эндпоинта api/notes/get/all*
