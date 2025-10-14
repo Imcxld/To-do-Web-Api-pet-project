@@ -48,7 +48,7 @@
 
 ---
 
-## 🎥 Демонстрация API
+## Демонстрация API
 
 ### Swagger UI - Документация API
 ![Swagger Documentation](screenshots/swagger-ui.png)
